@@ -20,7 +20,8 @@ disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
-
+future: true
+published: true
 
 # Social Media Settings
 # Remove the item if you don't need it
