@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+name: PunRabbit
+display_name: PunRabbit
+position: Creator and Backend Developer
+bio: Developer
+github_username: PunRabbit
+facebook_username: PunRabbit
+twitter_username: PunRabbit
+instagram_username: PunRabbit
+linkedin_username: PunRabbit
+medium_username: PunRabbit
 ---
 
