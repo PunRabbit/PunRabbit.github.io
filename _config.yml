@@ -14,9 +14,7 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-email: tjdmsch2201@gmail.com
+email: None
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -27,7 +25,7 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: PunRabbit
-instagram_username: PunRabbit
+instagram_username: pun.rabbit
 
 
 # Posts Settings
