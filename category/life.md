@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
-description: A category for life related posts.
+title: Day
+slug: day
+description: A category for day related posts.
 ---
