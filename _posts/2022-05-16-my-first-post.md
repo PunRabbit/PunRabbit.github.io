@@ -6,10 +6,9 @@ subtitle: 제발 정상적으로 올라가기를 바라며
 description: 정상적으로 올라갈지 모르는 게시글
 image: http://drive.google.com/uc?export=view&id=1k1GNtmd_vC9OCVcAaDLUKsb21MQmm6IG
 optimized_image: http://drive.google.com/uc?export=view&id=1k1GNtmd_vC9OCVcAaDLUKsb21MQmm6IG
-category: css
+category: day
 tags:
-  - css
-  - tips
+  - day
 author: PunRabbit
 ---
 
