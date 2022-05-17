@@ -6,10 +6,6 @@ display_name: PunRabbit
 position: Creator and Backend Developer
 bio: Developer
 github_username: PunRabbit
-facebook_username: PunRabbit
-twitter_username: PunRabbit
-instagram_username: PunRabbit
-linkedin_username: PunRabbit
-medium_username: PunRabbit
+instagram_username: pun.rabbit
 ---
 
