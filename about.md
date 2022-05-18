@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+
+![image](http://drive.google.com/uc?export=view&id=1Uhim-CiY96eJPb3Ut4DYZZbi5Z46i8tF "image")
+
+
+
 안녕하세요! 반가워요!
 저는 백엔드 서버 개발자로 일하고 있는 웹툰작가 준비생, PunRabbit 이라고 합니다.
 
