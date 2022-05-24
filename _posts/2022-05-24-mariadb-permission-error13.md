@@ -26,7 +26,7 @@ author: PunRabbit
 
 아니 중요한건 이게 아니라...
 
-오늘 겪은 에러는 MariaDB의 쿼리문 결과를 파일오 저장하려다가 겪은 에러이다.
+오늘 겪은 에러는 MariaDB의 쿼리문 결과를 파일로 저장하려다가 겪은 에러이다.
 
 에러가 발생한 환경은 Windows 10 Pro, Mariadb 10.5 (installed at C drive) 이며,
 
@@ -68,7 +68,9 @@ SELECT * FROM test INTO OUTFILE = "C:/pilot/test.txt"
 
 결과는 성공이었다.
 
-근데 왜인지 모르겠지만 결과창에 성공한 경로가 다음과 같이 표시되었다.
+지금보면 참 놀랍게도, 세상에서 제일 멍청한 실수가 아닐 수 없다.
+
+그런데 왜인지 모르겠지만 결과창에 성공한 경로가 다음과 같이 표시되었다.
 
 ```
 
@@ -82,7 +84,7 @@ CMD 창에서 발생하는 오류겠거니 하고 해당 폴더를 진입했는�
 
 이런! 여기에도 없다.
 
-[image1](http://drive.google.com/uc?export=view&id=1S1ekXlIQnU5kYp56u7mWFGzvb_nk-w3S)
+![image1](http://drive.google.com/uc?export=view&id=1S1ekXlIQnU5kYp56u7mWFGzvb_nk-w3S "image1")
 
 벌써부터 신나는 에러 여행을 할 생각에 가슴이 두근거렸다.
 
@@ -133,7 +135,7 @@ ERROR 1 (HY000): Can't create/write to file "C:       pilotte     st.txt" (Errco
 
 ```
 
-[image2](http://drive.google.com/uc?export=view&id=1r4Z7YnW_2KlS0XVr2yMrbYD_UodxbwHK)
+![image2](http://drive.google.com/uc?export=view&id=1r4Z7YnW_2KlS0XVr2yMrbYD_UodxbwHK "image2")
 
 그런데 사실 DB는 죄가 없다.
 
