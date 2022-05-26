@@ -4,8 +4,8 @@ layout: post
 title: 뭐든 실전이 중요하다
 subtitle: 나는 애송이
 description: 실전경험
-image: https://drive.google.com/file/d/1jDK9TdMkMmhAPN70H2YBF4ipEPkwwejb/view?usp=sharing
-optimized_image: https://drive.google.com/file/d/1jDK9TdMkMmhAPN70H2YBF4ipEPkwwejb/view?usp=sharing
+image: http://drive.google.com/uc?export=view&id=1jDK9TdMkMmhAPN70H2YBF4ipEPkwwejb
+optimized_image: http://drive.google.com/uc?export=view&id=1jDK9TdMkMmhAPN70H2YBF4ipEPkwwejb
 category: day
 tags:
   - day
