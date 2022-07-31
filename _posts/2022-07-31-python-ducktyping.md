@@ -4,8 +4,8 @@ layout: post
 title: Python DuckTyping 확장해서 활용해보기 
 subtitle: 유사 인터페이스
 description: 유사제품주의
-image: https://tenor.com/view/duck-meme-gif-21961725
-optimized_image: https://tenor.com/view/duck-meme-gif-21961725
+image: http://drive.google.com/uc?export=view&id=15Qe6135kmwP6iv72L1GstvzrvGGCsWTB
+optimized_image: http://drive.google.com/uc?export=view&id=15Qe6135kmwP6iv72L1GstvzrvGGCsWTB
 category: python
 tags:
   - python
