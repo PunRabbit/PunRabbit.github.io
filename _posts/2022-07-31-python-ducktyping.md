@@ -1,11 +1,11 @@
 ---
 date: 2022-07-31 01:42:15
 layout: post
-title: Python DuckTyping 활용해보기
+title: Python DuckTyping 확장해서 활용해보기 
 subtitle: 유사 인터페이스
 description: 유사제품주의
-image: https://drive.google.com/file/d/1Oww9VJQX_617lk-t2W2mkcc_RvUX6POY/view?usp=sharing
-optimized_image: https://drive.google.com/file/d/1Oww9VJQX_617lk-t2W2mkcc_RvUX6POY/view?usp=sharing
+image: https://tenor.com/view/duck-meme-gif-21961725
+optimized_image: https://tenor.com/view/duck-meme-gif-21961725
 category: python
 tags:
   - python
