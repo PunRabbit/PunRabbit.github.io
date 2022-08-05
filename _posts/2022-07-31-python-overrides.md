@@ -1,7 +1,7 @@
 ---
 date: 2022-07-31 20:03:12
 layout: post
-title: Pypi overrides 활용해보기
+title: Python overrides 활용해보기
 subtitle: 강제의 미학
 description: 활용의미학
 image: http://drive.google.com/uc?export=view&id=1t5etlXxAN-r8RW4Uz4uSWiIEb91D8Q44
@@ -13,9 +13,11 @@ tags:
 author: PunRabbit
 ---
 
-## Pypi overrides
+> **8월 6일 현재 포스팅의 일부 정보를 수정했다. 정말 충격적이게도, Pypi를 해당 라이브러리의 제작자로 알고 있었다. Python에 대한 정말 기초적인 정보조차 제대로 알고 있지 않았다는 것인데... 스스로 너무 부끄럽다. 하지만, 이 부끄러움을 잊지 않기 위해 이렇게 메모한다. 다음부터는 제대로 조사하자.**
 
-Python 에는 Pypi 에서 만든 **overrides** 라는 라이브러리가 있다.
+## Python overrides
+
+Python 에는 pip로 설치할 수 있는 **overrides** 라는 외부 라이브러리가 있다.
 
 Java 에서 지원하는 override 와 거의 흡사한 기능을 지원하는데, 세세한 정보는 언제나 그렇듯 공식 홈페이지만한 것이 없기에 공식 홈페이지 링크를 아래와 같이 달아놓는다!
 
@@ -87,7 +89,7 @@ class StupidBall(Ball):
 
 BasketBall, BaseBall 은 overrides 라이브러리를 사용해 오버라이딩한 추상메소드를 데코레이터로 잡아주었고, StupidBall 은 해당 라이브러리를 사용하지 않았다.
 
-그리고 BasketBall 은 추상메소드가 기대하는 return 값을 잘 반환하고, 잘 명시하였지만 나머지 둘은 
+그리고 BasketBall 은 추상메소드가 기대하는 return 값을 잘 반환하고, 잘 명시하였지만 나머지 둘은 그렇다고 볼 수 없다.
 
 이제 이걸 인스턴스로 올려보자!
 
