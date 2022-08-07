@@ -95,8 +95,8 @@ class Jerry(Rat):
 
 > 이전 글들을 미리 읽어보고 오시면 저의 의도를 이해하시는데 조금 더 도움이 될 것 같습니다! 
 >> [Python DuckTyping 확장해서 활용해보기](https://punrabbit.github.io/python-ducktyping/)
-> > [Pypi overrides 활용해보기](https://punrabbit.github.io/python-overrides/)
-> [Python slots 활용해보기](https://punrabbit.github.io/python-slots/)
+>> [Python overrides 활용해보기](https://punrabbit.github.io/python-overrides/)
+>> [Python slots 활용해보기](https://punrabbit.github.io/python-slots/)
 
 <br/>
 
@@ -110,7 +110,7 @@ Python의 **DuckTyping**은 객체의 타입을 제한하지 않고 동일한 �
 
 Python에 있는 **TypeHint**를 이용하면 **각 객체의 타입을 명시**해줄 수 있습니다. 하지만, **타입을 검사하지는 않습니다.**
 
-Pypi에서 만든 **overrides**와 **typehint**가 결합될 경우, 추상클래스에서 강제한 추상메소드가 반환할 타입의 **typehinting**이 제대로 되어 있는지 검사합니다. 하지만, **실제 타입을 검사하지는 않습니다.**
+**overrides**와 **typehint**가 결합될 경우, 추상클래스에서 강제한 추상메소드가 반환할 타입의 **typehinting**이 제대로 되어 있는지 검사합니다. 하지만, **실제 타입을 검사하지는 않습니다.**
 
 <br/>
 

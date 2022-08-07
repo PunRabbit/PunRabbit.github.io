@@ -136,7 +136,7 @@ some_man.call_name()
 
 이전 글에서, 제가 생각하는 **강제의 미학**에 대해서 이야기했었는데요, 저는 그 강제함을 위해 이 녀석을 차용하는건 어떨까 싶습니다.
 
-[Pypi overrides 활용해보기](https://punrabbit.github.io/python-overrides/)
+[Python overrides 활용해보기](https://punrabbit.github.io/python-overrides/)
 
 설계자가 만든 의도대로 클래스를 활용하기 위해서는, 주어진 클래스의 속성값만 이용할 필요가 있다고 생각합니다.
 
