@@ -4,8 +4,8 @@ layout: post
 title: 왜 Python으로 서버개발 하고 있어요?
 subtitle: 수많은 질문세례
 description: 질문세례
-image: https://drive.google.com/file/d/1v6KVFBOVlbHdeuEAFPwdOS-yRVlwrFKK/preview
-optimized_image: https://drive.google.com/file/d/1v6KVFBOVlbHdeuEAFPwdOS-yRVlwrFKK/preview
+image: http://drive.google.com/uc?export=view&id=1v6KVFBOVlbHdeuEAFPwdOS-yRVlwrFKK
+optimized_image: http://drive.google.com/uc?export=view&id=1v6KVFBOVlbHdeuEAFPwdOS-yRVlwrFKK
 category: python
 tags:
   - python
