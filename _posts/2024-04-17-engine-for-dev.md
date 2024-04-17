@@ -4,8 +4,8 @@ layout: post
 title: Velog로 이사를 떠나요
 subtitle: https://velog.io/@punrabbit/posts
 description: 개방폐쇄
-image: https://giphy.com/embed/16sySqkP1ObuleZfAG/video
-optimized_image: https://giphy.com/embed/16sySqkP1ObuleZfAG/video
+image: https://i.ibb.co/Hxn1fj7/tumblr-niraqn-UAy-B1sx92edo1-400.gif
+optimized_image: https://i.ibb.co/Hxn1fj7/tumblr-niraqn-UAy-B1sx92edo1-400.gif
 category: python
 tags:
   - announcement
@@ -117,4 +117,4 @@ author: PunRabbit
 ### 자, 그럼! **[새 둥지](https://velog.io/@punrabbit/posts)에서 여러분을 기다리겠습니다 :)**
 
 
-![myimage](https://i.ibb.co/Hxn1fj7/tumblr-niraqn-UAy-B1sx92edo1-400.gif)
+![myimage](https://i.ibb.co/tDjpLD4/giphy-3.gif)
